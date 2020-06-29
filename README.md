@@ -1,6 +1,6 @@
 # ML_Market-Basket-Analysis
-Machine Learning for Market Basket Analysis using R or Python
-Model Association Rule
+Machine Learning for Market Basket Analysis using R or Python </br>
+Model Association Rule</br>
 Versi 1, Dibuat dengan :
 - R Language
 - R Notebook
