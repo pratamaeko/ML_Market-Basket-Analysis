@@ -1,2 +1,14 @@
 # ML_Market-Basket-Analysis
 Machine Learning for Market Basket Analysis using R or Python
+Model Association Rule
+Versi 1, Dibuat dengan :
+- R Language
+- R Notebook
+- library arules
+- Algoritma Apriori
+
+Versi 2, Dibuat dengan :
+- Python Language
+- Jupyter Notebook
+- library pandas, mlxtend
+- Algoritma Apriori
